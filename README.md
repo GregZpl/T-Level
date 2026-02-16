@@ -8,24 +8,32 @@ Cover:
 - Hardware and software applications
 - Emerging Tech
 - Meeting diverse user needs
-- Industry specific guidelines
+- Industry specific guidelines and regulations
 
 Tips:
+Research supports rationale for proposal
+All notes must be factual
 
 Cover:
 - Use credible sources (industry reports, standards, tech blogs)
 - Organise notes under headings
 - keep notes facts - no analysis
-- Include security considerations
+- Include security considerations - encryption, secure data storage etc.
 - Note relevant lawaws
 
 
 ### **Business Context**
 - - [ ] Client Brief Review
+  - [ ] clients goals and problems
 - - [ ] Stakeholders
+- - [ ] Security Compliance
+  - [ ] considering stakeholders responsible
 - - [ ] Constraints
+  - [ ] time, budget, deadlines, resources, security and compliance
 - - [ ] Empathy Mapping
+  - [ ] consider accessibiliy and security compliance
 - - [ ] SWOT Analysis
+  - [ ] strengths, weakness, opportunities, threats - data breaches , security and such how would effect etc
 - - [ ] User Stories & Acceptance
 
 - [ ] **Functional & Non Functional Requirements**
@@ -34,6 +42,7 @@ Cover:
 - [ ] **Decomposition of Requirements**
 
 - [ ] **KPI's & User Acceptance**
+- [ ] include security needs, and compliance with GDPR, what would happen if not etc
  
 ### **Proposed Solution**
 - [ ] **Description of Proposed Solution** 
