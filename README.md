@@ -1,4 +1,4 @@
-# T-Level-Exam Thing
+# T-Level-Digital Production Design And Development - Task1 A & B
 
 ## Activity A Checklist
 
@@ -57,75 +57,153 @@ Cover:
 - [ ] **Appendix**
 
 
-## Activity B Checklist
+# 📘 Activity B Checklist — Design & Development
 
-### Visual Interface Design
- - [ ] **Wireframes Created**
- - - [ ] Whitespace
- - - [ ] Hierarchy 
- - - [ ] Make look good
+## General Design Guidance
+- [ ] Use Activity A research to guide all design decisions
+- [ ] Show multiple design approaches (not just one)
+- [ ] Clearly label all diagrams
+- [ ] Keep diagrams simple and readable
+- [ ] Include accessibility considerations throughout
+- [ ] Address security, compliance, and data protection in the design
+- [ ] Maintain consistency with user needs and acceptance criteria
 
- - [ ] **Accessibility Features Included**
- 
- - [ ] **Annotations**
- 
- - [ ] **User Journey**
- 
- - [ ] **Front end requirements**
- 
- - [ ] **Back end requirements**
+---
 
-### Data Requirements
- - [ ] **ERD Completed**
+# 🏗️ System Architecture
+- [ ] Architecture Diagram
+- [ ] Client / Server Components
+- [ ] Data Storage & Access
+- [ ] APIs / Integrations
+- [ ] Data Flow Between Components
+- [ ] Deployment Environment (cloud / local / hybrid)
 
- - [ ] **Use Case Diagram**
+## Security Controls
+- [ ] Authentication
+- [ ] Encryption
+- [ ] Secure Data Transmission
 
- - [ ] **Data Dictionary**
+---
 
-### Algorithm Designs
-- [ ] **Flow charting**
+# 🎨 Visual Interface Design
+- [ ] Wireframes Created
+  - [ ] Effective Whitespace
+  - [ ] Clear Hierarchy
+  - [ ] Visually Appealing Layout
+- [ ] Accessibility Features Included
+- [ ] Annotations Explaining Design Decisions
+- [ ] User Journey / User Flow
+- [ ] Navigation Flow / Sitemap
+- [ ] Front-End Requirements
+- [ ] Back-End Requirements
 
-### Test Stratagey
-- [ ] **Functionality Testing**  
-  Verifies that each feature works according to requirements.
+---
 
-- [ ] **Usability Testing**  
-  How easy a design is to use with a group of users.
+# 🔐 Data Protection
+- [ ] Data Retention Policy
+- [ ] Storage Location (e.g., cloud region)
+- [ ] Access Control Levels
+- [ ] Encryption Approach (at rest and in transit)
 
-- [ ] **Interface Testing**  
-  How different components communicate with each other smoothly and accurately.
+---
 
-- [ ] **Database Testing**  
-  Evaluate the accuracy, reliability, and performance of a database system.
+# 🗄️ Data Design
+- [ ] Entity Relationship Diagram (ERD)
+- [ ] Use Case Diagram
+- [ ] Data Dictionary
+- [ ] Data Flow Diagram (DFD)
+- [ ] Data Validation Rules
+- [ ] Data Protection Considerations
 
-- [ ] **Compatibility Testing**  
-  Ensure the application can work on different hardware and environments.
+---
 
-- [ ] **Performance Testing**  
-  Determine a system’s speed, stability, and scalability under a specific workload.
+# ⚙️ System Processes & Algorithms
+- [ ] Flowcharts
+- [ ] Pseudocode
+- [ ] Input–Process–Output Tables
+- [ ] Error Handling
+- [ ] Exception Handling
+- [ ] Process Logic Descriptions
 
-- [ ] **Security Testing**  
-  Evaluate a system to find vulnerabilities and weaknesses that could be exploited.
+---
 
-- [ ] **Crowd Testing**  
-  Quality assurance performed by a group of external testers.
+# 🧪 Testing Strategy
+- [ ] Functionality Testing
+- [ ] Usability Testing
+- [ ] Interface Testing
+- [ ] Database Testing
+- [ ] Compatibility Testing
+- [ ] Performance Testing
+- [ ] Security Testing
+- [ ] Crowd Testing
+- [ ] Accessibility Testing
+- [ ] Acceptance Testing
+- [ ] Alpha Testing
+- [ ] Beta Testing
+- [ ] Black Box Testing
+- [ ] White Box / Structural Testing
 
-- [ ] **Accessibility Testing**  
-  Check if a website is usable by everyone, including people with disabilities.
+---
 
-- [ ] **Acceptance Testing**  
-  Verify that the product meets the requirements and user needs.
+# ⚖️ Security, Legal & Compliance
+- [ ] GDPR Compliance
+- [ ] Data Minimisation
+- [ ] User Consent Management
+- [ ] Access Control & Authentication
+- [ ] Cyber Threat Mitigation
+- [ ] Sector-Specific Regulations (if applicable)
+- [ ] Privacy by Design Principles
 
-- [ ] **Alpha Testing**  
-  Internal testers identify any issues or improvements needed.
+---
 
-- [ ] **Beta Testing**  
-  External users give feedback on usability and performance.
+# 🖥️ Technical Specifications
+- [ ] Technology Stack
+- [ ] Software Requirements
+- [ ] Hardware Requirements
+- [ ] APIs / Endpoints
+- [ ] Integration Requirements
+- [ ] Performance Requirements
+- [ ] Scalability Considerations
+- [ ] Reliability / Availability Targets
 
-- [ ] **Black Box Testing**  
-  Test functionality without looking into internal structures or inner workings.
+---
 
-- [ ] **White Box Testing / Structural Testing**  
-  Test the inner workings and logic by analysing the source code.
+# 📊 Non-Functional Requirements Mapping
+- [ ] Performance Targets
+- [ ] Security Requirements
+- [ ] Accessibility Requirements
+- [ ] Reliability Targets
+- [ ] Usability Requirements
+- [ ] Maintainability Considerations
 
-### Communication
+---
+
+# 💡 Design Justification
+- [ ] Link to Client Requirements
+- [ ] Link to User Needs
+- [ ] Link to Constraints (time, budget, resources)
+- [ ] Accessibility Justification
+- [ ] Security Justification
+- [ ] Technical Justification
+- [ ] Alternatives Considered and Rejected
+- [ ] Risk Reduction Explanation
+
+---
+
+# 📎 Appendices
+- [ ] Early Design Ideas
+- [ ] Rough Sketches
+- [ ] Research References
+- [ ] Standards References (e.g., WCAG, GDPR)
+- [ ] Extended Diagrams
+- [ ] Supporting Documentation
+
+---
+
+# 🗣️ Communication
+- [ ] Stakeholder Meetings
+- [ ] Progress Reports
+- [ ] Documentation Strategy
+- [ ] Version Control (e.g., Git)
+- [ ] Feedback Methods
+- [ ] Change Management Process
