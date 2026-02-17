@@ -207,3 +207,277 @@ Cover:
 - [ ] Version Control (e.g., Git)
 - [ ] Feedback Methods
 - [ ] Change Management Process
+
+
+
+# Task 3b — Evaluation of Prototype Digital Solution
+
+---
+
+## 1. Introduction
+
+This section introduces the prototype and explains what the evaluation will cover.
+
+**What is your prototype?**  
+Describe the digital solution you created, including its purpose, target users, and main features.
+
+**What does this evaluation cover?**  
+Explain that this evaluation will assess the effectiveness of assets, content, functionality, performance, user feedback, and potential improvements based on Task 3a testing results.
+
+---
+
+## 2. Evaluation of Assets and Content
+
+### 2.1 Why You Chose Your Assets
+
+Explain the reasons for selecting:
+
+- Fonts  
+- Colours  
+- Images  
+- Icons  
+- Text content  
+- Data used  
+- Layout and structure  
+
+Discuss how these choices support usability, accessibility, branding, and user needs.
+
+---
+
+### 2.2 Why You Rejected Other Options
+
+Explain alternatives you considered and why they were not suitable.
+
+Examples:
+
+- Fonts that were harder to read
+- Colour schemes with poor contrast
+- Layouts that caused confusion
+- Images that were low quality or irrelevant
+
+---
+
+### 2.3 Validity and Reliability of Sources
+
+Explain why your sources are trustworthy.
+
+Include:
+
+- Reputable websites or organisations
+- Up-to-date information
+- Accurate data sources
+- Cross-checking information where possible
+
+---
+
+### 2.4 Legal & Ethical Considerations
+
+Discuss how you addressed the following:
+
+**Copyright**
+- Use of original or licensed content
+- Avoiding copyrighted material without permission
+
+**Licences**
+- Creative Commons or royalty-free resources
+- Software or framework licences
+
+**GDPR**
+- Protection of personal data
+- User consent where applicable
+- Secure storage of information
+
+**Accessibility**
+- Colour contrast
+- Readable fonts
+- Keyboard navigation
+- Screen reader compatibility
+
+**Inclusivity**
+- Neutral language
+- Representation of diverse users
+- Avoiding bias or stereotypes
+
+---
+
+## 3. How Your Prototype Meets Requirements
+
+### 3.1 Functional Requirements
+
+Evaluate how well your prototype performs its required functions.
+
+Examples:
+
+- Navigation works correctly
+- Forms submit data properly
+- Features operate without errors
+
+---
+
+### 3.2 Non-Functional Requirements
+
+Evaluate quality attributes such as:
+
+- Performance (speed/loading time)
+- Usability
+- Accessibility
+- Security
+- Compatibility across devices
+- Reliability
+
+---
+
+### 3.3 Key Performance Indicators (KPIs)
+
+Compare your results against the KPIs you defined earlier.
+
+Examples:
+
+- Task completion time
+- User satisfaction score
+- Error rate
+- Success rate
+
+State whether targets were met and explain why.
+
+---
+
+### 3.4 User Acceptance Criteria
+
+Use evidence from **Task 3a testing** to evaluate whether user needs were met.
+
+Include:
+
+- Survey results
+- Interview themes
+- Observations
+- At least one direct user quote
+
+Show connections between feedback and conclusions.
+
+---
+
+## 4. Improvements (Evidence-Based)
+
+For each improvement include:
+
+- What will you improve?
+- Why is this needed?
+- Which Task 3a evidence supports this?
+- How will it help users?
+
+---
+
+### Improvement 1
+
+**What:**  
+Describe the improvement.
+
+**Why:**  
+Explain the reason.
+
+**Evidence:**  
+Reference Task 3a data (scores, quotes, observations).
+
+**User Benefit:**  
+Explain how it improves user experience.
+
+---
+
+### Improvement 2
+
+**What:**  
+
+**Why:**  
+
+**Evidence:**  
+
+**User Benefit:**  
+
+---
+
+### Improvement 3
+
+**What:**  
+
+**Why:**  
+
+**Evidence:**  
+
+**User Benefit:**  
+
+---
+
+## 5. Conclusion
+
+Summarise the overall evaluation.
+
+Include:
+
+- What worked well
+- What needs further development
+- How the prototype could be improved in future versions
+
+---
+
+# Task 3b Checklist
+
+---
+
+## A. Assets & Content
+
+| Requirement | Completed |
+|-------------|-----------|
+Explained why each key asset was chosen | ☐ |
+Explained why alternatives were rejected | ☐ |
+Stated how sources were valid & reliable | ☐ |
+Included legal issues (copyright, licences) | ☐ |
+Included ethical issues (accessibility, inclusivity) | ☐ |
+
+---
+
+## B. Requirements Evaluation
+
+| Requirement | Completed |
+|-------------|-----------|
+Evaluated functional requirements | ☐ |
+Evaluated non-functional requirements | ☐ |
+Judged performance against KPIs | ☐ |
+Evaluated user acceptance criteria with evidence | ☐ |
+Used Task 3a data to support claims | ☐ |
+
+---
+
+## C. Use of Evidence (Task 3a Link)
+
+| Requirement | Completed |
+|-------------|-----------|
+Referred to survey scores correctly | ☐ |
+Used interview themes | ☐ |
+Included at least one user quote | ☐ |
+Used observational notes | ☐ |
+Showed triangulation (score + theme + quote) | ☐ |
+
+---
+
+## D. Improvements
+
+| Requirement | Completed |
+|-------------|-----------|
+Listed realistic improvements | ☐ |
+Each improvement supported by Task 3a evidence | ☐ |
+Explained why improvements matter | ☐ |
+Showed how improvements help users | ☐ |
+
+---
+
+## E. Writing Quality
+
+| Requirement | Completed |
+|-------------|-----------|
+Clear structure (intro → evaluation → improvements → conclusion) | ☐ |
+Professional wording | ☐ |
+Full sentences & paragraphs | ☐ |
+Not bullet-point-only answers | ☐ |
+
+---
